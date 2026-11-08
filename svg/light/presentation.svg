@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Presentation">
+  <defs>
+    <linearGradient id="g-edge-eml" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFA14A"/><stop offset="1" stop-color="#EE4B7E"/></linearGradient>
+    <linearGradient id="g-glass-eml" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFA14A" stop-opacity=".24"/><stop offset="1" stop-color="#EE4B7E" stop-opacity=".24"/></linearGradient>
+    <radialGradient id="g-top-eml" cx="30%" cy="25%" r="85%"><stop offset="0" stop-color="#FFC58A"/><stop offset=".5" stop-color="#E85A6A"/><stop offset="1" stop-color="#7A1F4B"/></radialGradient>
+  </defs>
+  <path d="M24 110 L80 142 L136 110 L136 118 L80 150 L24 118 Z" fill="url(#g-glass-eml)" opacity=".9"/>
+  <path d="M80 78 L136 110 L80 142 L24 110 Z" fill="url(#g-glass-eml)" stroke="url(#g-edge-eml)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 110 L80 142 L136 110" fill="none" stroke="#EE4B7E" stroke-width="1.2" stroke-opacity=".9" transform="translate(0 8)"/>
+  <ellipse cx="77.2" cy="111.6" rx="40.0" ry="9.0" fill="#7A1F4B" opacity="0.15"/>
+  <path d="M80.0 58.8 L99.0 99.1" stroke="#E85A6A" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M57.6 74.2 L102.4 99.8 L102.4 52.4 L57.6 26.8 Z" fill="url(#g-glass-eml)" stroke="url(#g-edge-eml)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M53.7 26.5 L103.0 54.6 L103.0 50.8 L53.7 22.6 Z" fill="url(#g-top-eml)" stroke="#FFD6A8" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M106.9 52.4 L103.0 54.6 L103.0 50.8 L106.9 48.6 Z" fill="url(#g-top-eml)" stroke="#FFD6A8" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M57.6 20.4 L106.9 48.6 L103.0 50.8 L53.7 22.6 Z" fill="url(#g-top-eml)" stroke="#FFD6A8" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M64.3 71.6 L71.0 75.4 L71.0 67.8 L64.3 63.9 Z" fill="url(#g-top-eml)" stroke="#FFD6A8" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M74.4 77.4 L81.1 81.2 L81.1 65.8 L74.4 62.0 Z" fill="url(#g-top-eml)" stroke="#FFD6A8" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M84.5 83.1 L91.2 87.0 L91.2 62.6 L84.5 58.8 Z" fill="url(#g-top-eml)" stroke="#FFD6A8" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M62.1 70.3 L99.0 91.4" stroke="#E85A6A" stroke-width="2.4" stroke-linecap="round" opacity=".8" fill="none"/>
+  <path d="M64.3 53.7 L76.6 53.0 L83.4 60.7 L96.8 55.6" fill="none" stroke="#7A1F4B" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.8 1.0)"/>
+  <path d="M64.3 53.7 L76.6 53.0 L83.4 60.7 L96.8 55.6" fill="none" stroke="#E85A6A" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(0.9 0.5)"/>
+  <path d="M64.3 53.7 L76.6 53.0 L83.4 60.7 L96.8 55.6" fill="none" stroke="url(#g-edge-eml)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64.3 53.7 L76.6 53.0 L83.4 60.7 L96.8 55.6" fill="none" stroke="#F2F6FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+  <path d="M66.6 79.3 L52.0 103.0" stroke="#E85A6A" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M93.4 94.6 L92.3 126.0" stroke="#E85A6A" stroke-width="4" stroke-linecap="round" fill="none"/>
+</svg>

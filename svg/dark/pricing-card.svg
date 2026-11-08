@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Pricing card">
+  <defs>
+    <linearGradient id="g-edge-emd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFA14A"/><stop offset="1" stop-color="#EE4B7E"/></linearGradient>
+    <linearGradient id="g-glass-emd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFA14A" stop-opacity=".35"/><stop offset="1" stop-color="#EE4B7E" stop-opacity=".35"/></linearGradient>
+    <radialGradient id="g-top-emd" cx="30%" cy="25%" r="85%"><stop offset="0" stop-color="#FFC58A"/><stop offset=".5" stop-color="#E85A6A"/><stop offset="1" stop-color="#7A1F4B"/></radialGradient>
+  </defs>
+  <path d="M24 110 L80 142 L136 110 L136 118 L80 150 L24 118 Z" fill="url(#g-glass-emd)" opacity=".8"/>
+  <path d="M80 78 L136 110 L80 142 L24 110 Z" fill="url(#g-glass-emd)" stroke="url(#g-edge-emd)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 110 L80 142 L136 110" fill="none" stroke="#FFD6A8" stroke-width="1.2" stroke-opacity=".5" transform="translate(0 8)"/>
+  <ellipse cx="71.0" cy="115.1" rx="30.0" ry="7.0" fill="#0B1020" opacity="0.40"/>
+  <path d="M56.5 101.7 L92.3 122.2 L92.3 59.4 L56.5 39.0 Z" fill="url(#g-glass-emd)" stroke="url(#g-edge-emd)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M56.5 50.5 L92.3 71.0 L92.3 59.4 L56.5 39.0 Z" fill="url(#g-top-emd)" opacity=".95"/>
+  <path d="M63.2 65.8 L77.8 74.2" stroke="#F2F6FF" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <path d="M63.2 74.8 L85.6 87.6" stroke="#FFD6A8" stroke-width="3" stroke-linecap="round" opacity=".7" fill="none"/>
+  <path d="M63.2 81.2 L81.1 91.4" stroke="#FFD6A8" stroke-width="3" stroke-linecap="round" opacity=".7" fill="none"/>
+  <path d="M63.2 87.6 L83.4 99.1" stroke="#FFD6A8" stroke-width="3" stroke-linecap="round" opacity=".7" fill="none"/>
+  <path d="M62.1 101.0 L86.7 115.1 L86.7 108.7 L62.1 94.6 Z" fill="url(#g-edge-emd)" stroke="#F2F6FF" stroke-width="1.2" stroke-linejoin="round"/>
+</svg>

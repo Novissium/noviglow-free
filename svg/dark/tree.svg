@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Tree">
+  <defs>
+    <linearGradient id="g-edge-mid" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2FE3B0"/><stop offset="1" stop-color="#1C88B0"/></linearGradient>
+    <linearGradient id="g-glass-mid" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2FE3B0" stop-opacity=".35"/><stop offset="1" stop-color="#1C88B0" stop-opacity=".35"/></linearGradient>
+    <radialGradient id="g-top-mid" cx="30%" cy="25%" r="85%"><stop offset="0" stop-color="#97F2D4"/><stop offset=".5" stop-color="#22A39E"/><stop offset="1" stop-color="#0F4A5E"/></radialGradient>
+  </defs>
+  <path d="M24 110 L80 142 L136 110 L136 118 L80 150 L24 118 Z" fill="url(#g-glass-mid)" opacity=".8"/>
+  <path d="M80 78 L136 110 L80 142 L24 110 Z" fill="url(#g-glass-mid)" stroke="url(#g-edge-mid)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 110 L80 142 L136 110" fill="none" stroke="#A9F5DD" stroke-width="1.2" stroke-opacity=".5" transform="translate(0 8)"/>
+  <ellipse cx="80.0" cy="110.0" rx="30.0" ry="10.5" fill="#0B1020" opacity="0.45"/>
+  <path d="M80.0 110.0 V63.1 M80.0 78.1 L69.5 64.6" fill="none" stroke="#22A39E" stroke-width="7.199999999999999" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="63.5" cy="57.1" r="18.6" fill="url(#g-top-mid)" stroke="#A9F5DD" stroke-width="1.6"/>
+  <circle cx="96.5" cy="57.7" r="19.8" fill="url(#g-top-mid)" stroke="#A9F5DD" stroke-width="1.6"/>
+  <circle cx="80.0" cy="42.1" r="23.4" fill="url(#g-top-mid)" stroke="#A9F5DD" stroke-width="1.6"/>
+  <circle cx="71.0" cy="33.1" r="6.6" fill="#F2F6FF" opacity=".45"/>
+</svg>

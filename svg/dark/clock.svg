@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Clock">
+  <defs>
+    <linearGradient id="g-edge-emd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFA14A"/><stop offset="1" stop-color="#EE4B7E"/></linearGradient>
+    <linearGradient id="g-glass-emd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFA14A" stop-opacity=".35"/><stop offset="1" stop-color="#EE4B7E" stop-opacity=".35"/></linearGradient>
+    <radialGradient id="g-top-emd" cx="30%" cy="25%" r="85%"><stop offset="0" stop-color="#FFC58A"/><stop offset=".5" stop-color="#E85A6A"/><stop offset="1" stop-color="#7A1F4B"/></radialGradient>
+  </defs>
+  <path d="M24 110 L80 142 L136 110 L136 118 L80 150 L24 118 Z" fill="url(#g-glass-emd)" opacity=".8"/>
+  <path d="M80 78 L136 110 L80 142 L24 110 Z" fill="url(#g-glass-emd)" stroke="url(#g-edge-emd)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 110 L80 142 L136 110" fill="none" stroke="#FFD6A8" stroke-width="1.2" stroke-opacity=".5" transform="translate(0 8)"/>
+  <ellipse cx="80.0" cy="110.0" rx="30.0" ry="9.0" fill="#0B1020" opacity="0.45"/>
+  <path d="M62.0 86.1 L54.0 106.1" fill="none" stroke="#7A1F4B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M62.0 86.1 L54.0 106.1" fill="none" stroke="#FFD6A8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M98.0 86.1 L106.0 106.1" fill="none" stroke="#7A1F4B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M98.0 86.1 L106.0 106.1" fill="none" stroke="#FFD6A8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="86.3" cy="63.7" r="36" fill="#7A1F4B"/>
+  <circle cx="85.4" cy="63.2" r="36" fill="#7A1F4B"/>
+  <circle cx="84.5" cy="62.7" r="36" fill="#7A1F4B"/>
+  <circle cx="83.6" cy="62.2" r="36" fill="#7A1F4B"/>
+  <circle cx="82.7" cy="61.6" r="36" fill="#7A1F4B"/>
+  <circle cx="81.8" cy="61.1" r="36" fill="#7A1F4B"/>
+  <circle cx="80.9" cy="60.6" r="36" fill="#E85A6A"/>
+  <circle cx="80.0" cy="60.1" r="36" fill="url(#g-top-emd)" stroke="#FFD6A8" stroke-width="2"/>
+  <circle cx="80.0" cy="60.1" r="30.0" fill="#141A28" stroke="#FFD6A8" stroke-width="1.5"/>
+  <circle cx="80.0" cy="60.1" r="30.0" fill="url(#g-glass-emd)"/>
+  <path d="M99.8 60.1 L107.0 60.1" fill="none" stroke="#F2F6FF" stroke-width="2.8000000000000003" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M100.3 71.8 L103.4 73.6" fill="none" stroke="#F2F6FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M91.7 80.3 L93.5 83.5" fill="none" stroke="#F2F6FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M80.0 79.9 L80.0 87.1" fill="none" stroke="#F2F6FF" stroke-width="2.8000000000000003" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M68.3 80.3 L66.5 83.5" fill="none" stroke="#F2F6FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M59.7 71.8 L56.6 73.6" fill="none" stroke="#F2F6FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M60.2 60.1 L53.0 60.1" fill="none" stroke="#F2F6FF" stroke-width="2.8000000000000003" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M59.7 48.4 L56.6 46.6" fill="none" stroke="#F2F6FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M68.3 39.8 L66.5 36.7" fill="none" stroke="#F2F6FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M80.0 40.3 L80.0 33.1" fill="none" stroke="#F2F6FF" stroke-width="2.8000000000000003" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M91.7 39.8 L93.5 36.7" fill="none" stroke="#F2F6FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M100.3 48.4 L103.4 46.6" fill="none" stroke="#F2F6FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M67.6 51.4 L80.0 60.1 L99.3 48.9" fill="none" stroke="url(#g-edge-emd)" stroke-width="4.68" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M67.6 51.4 L80.0 60.1 L99.3 48.9" fill="none" stroke="#F2F6FF" stroke-width="1.6199999999999999" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="80.0" cy="60.1" r="3.6" fill="url(#g-top-emd)" stroke="#F2F6FF" stroke-width="1.5"/>
+</svg>

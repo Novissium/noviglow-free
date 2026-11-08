@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Sparkles">
+  <defs>
+    <linearGradient id="g-edge-grd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#AEB8C6"/><stop offset="1" stop-color="#5A6576"/></linearGradient>
+    <linearGradient id="g-glass-grd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#AEB8C6" stop-opacity=".35"/><stop offset="1" stop-color="#5A6576" stop-opacity=".35"/></linearGradient>
+    <radialGradient id="g-top-grd" cx="30%" cy="25%" r="85%"><stop offset="0" stop-color="#C3CCD8"/><stop offset=".5" stop-color="#77839A"/><stop offset="1" stop-color="#2C323D"/></radialGradient>
+  </defs>
+  <path d="M24 110 L80 142 L136 110 L136 118 L80 150 L24 118 Z" fill="url(#g-glass-grd)" opacity=".8"/>
+  <path d="M80 78 L136 110 L80 142 L24 110 Z" fill="url(#g-glass-grd)" stroke="url(#g-edge-grd)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 110 L80 142 L136 110" fill="none" stroke="#E3E8EF" stroke-width="1.2" stroke-opacity=".5" transform="translate(0 8)"/>
+  <path d="M46.0 100.0 V110.0 A34 19.5 0 0 0 114.0 110.0 V100.0 Z" fill="url(#g-glass-grd)" stroke="url(#g-edge-grd)" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="80.0" cy="100.0" rx="34" ry="19.5" fill="url(#g-glass-grd)" stroke="url(#g-edge-grd)" stroke-width="2.2"/>
+  <ellipse cx="80.0" cy="99.8" rx="26.0" ry="9.0" fill="#0B1020" opacity="0.45"/>
+  <path d="M76.0 18.0 L81.8 46.2 L110.0 52.0 L81.8 57.8 L76.0 86.0 L70.2 57.8 L42.0 52.0 L70.2 46.2 L76.0 18.0 Z" fill="#2C323D" transform="translate(5.4 3.1)"/>
+  <path d="M76.0 18.0 L81.8 46.2 L110.0 52.0 L81.8 57.8 L76.0 86.0 L70.2 57.8 L42.0 52.0 L70.2 46.2 L76.0 18.0 Z" fill="#2C323D" transform="translate(4.5 2.6)"/>
+  <path d="M76.0 18.0 L81.8 46.2 L110.0 52.0 L81.8 57.8 L76.0 86.0 L70.2 57.8 L42.0 52.0 L70.2 46.2 L76.0 18.0 Z" fill="#2C323D" transform="translate(3.6 2.1)"/>
+  <path d="M76.0 18.0 L81.8 46.2 L110.0 52.0 L81.8 57.8 L76.0 86.0 L70.2 57.8 L42.0 52.0 L70.2 46.2 L76.0 18.0 Z" fill="#2C323D" transform="translate(2.7 1.6)"/>
+  <path d="M76.0 18.0 L81.8 46.2 L110.0 52.0 L81.8 57.8 L76.0 86.0 L70.2 57.8 L42.0 52.0 L70.2 46.2 L76.0 18.0 Z" fill="#2C323D" transform="translate(1.8 1.0)"/>
+  <path d="M76.0 18.0 L81.8 46.2 L110.0 52.0 L81.8 57.8 L76.0 86.0 L70.2 57.8 L42.0 52.0 L70.2 46.2 L76.0 18.0 Z" fill="#77839A" transform="translate(0.9 0.5)"/>
+  <path d="M76.0 18.0 L81.8 46.2 L110.0 52.0 L81.8 57.8 L76.0 86.0 L70.2 57.8 L42.0 52.0 L70.2 46.2 L76.0 18.0 Z" fill="url(#g-top-grd)" stroke="#E3E8EF" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M76.0 41.0 L78.3 49.7 L87.0 52.0 L78.3 54.3 L76.0 63.0 L73.7 54.3 L65.0 52.0 L73.7 49.7 L76.0 41.0 Z" fill="#F2F6FF" opacity=".85"/>
+  <path d="M118.0 12.0 L120.8 23.2 L132.0 26.0 L120.8 28.8 L118.0 40.0 L115.2 28.8 L104.0 26.0 L115.2 23.2 L118.0 12.0 Z" fill="#2C323D" transform="translate(2.7 1.6)"/>
+  <path d="M118.0 12.0 L120.8 23.2 L132.0 26.0 L120.8 28.8 L118.0 40.0 L115.2 28.8 L104.0 26.0 L115.2 23.2 L118.0 12.0 Z" fill="#2C323D" transform="translate(1.8 1.0)"/>
+  <path d="M118.0 12.0 L120.8 23.2 L132.0 26.0 L120.8 28.8 L118.0 40.0 L115.2 28.8 L104.0 26.0 L115.2 23.2 L118.0 12.0 Z" fill="#77839A" transform="translate(0.9 0.5)"/>
+  <path d="M118.0 12.0 L120.8 23.2 L132.0 26.0 L120.8 28.8 L118.0 40.0 L115.2 28.8 L104.0 26.0 L115.2 23.2 L118.0 12.0 Z" fill="url(#g-top-grd)" stroke="#E3E8EF" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M38.0 16.0 L40.1 23.9 L48.0 26.0 L40.1 28.1 L38.0 36.0 L35.9 28.1 L28.0 26.0 L35.9 23.9 L38.0 16.0 Z" fill="#2C323D" transform="translate(2.7 1.6)"/>
+  <path d="M38.0 16.0 L40.1 23.9 L48.0 26.0 L40.1 28.1 L38.0 36.0 L35.9 28.1 L28.0 26.0 L35.9 23.9 L38.0 16.0 Z" fill="#2C323D" transform="translate(1.8 1.0)"/>
+  <path d="M38.0 16.0 L40.1 23.9 L48.0 26.0 L40.1 28.1 L38.0 36.0 L35.9 28.1 L28.0 26.0 L35.9 23.9 L38.0 16.0 Z" fill="#77839A" transform="translate(0.9 0.5)"/>
+  <path d="M38.0 16.0 L40.1 23.9 L48.0 26.0 L40.1 28.1 L38.0 36.0 L35.9 28.1 L28.0 26.0 L35.9 23.9 L38.0 16.0 Z" fill="url(#g-top-grd)" stroke="#E3E8EF" stroke-width="2" stroke-linejoin="round"/>
+</svg>

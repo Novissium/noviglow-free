@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Laptop">
+  <defs>
+    <linearGradient id="g-edge-grl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#AEB8C6"/><stop offset="1" stop-color="#5A6576"/></linearGradient>
+    <linearGradient id="g-glass-grl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#AEB8C6" stop-opacity=".24"/><stop offset="1" stop-color="#5A6576" stop-opacity=".24"/></linearGradient>
+    <radialGradient id="g-top-grl" cx="30%" cy="25%" r="85%"><stop offset="0" stop-color="#C3CCD8"/><stop offset=".5" stop-color="#77839A"/><stop offset="1" stop-color="#2C323D"/></radialGradient>
+  </defs>
+  <path d="M24 110 L80 142 L136 110 L136 118 L80 150 L24 118 Z" fill="url(#g-glass-grl)" opacity=".9"/>
+  <path d="M80 78 L136 110 L80 142 L24 110 Z" fill="url(#g-glass-grl)" stroke="url(#g-edge-grl)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 110 L80 142 L136 110" fill="none" stroke="#5A6576" stroke-width="1.2" stroke-opacity=".9" transform="translate(0 8)"/>
+  <ellipse cx="73.3" cy="113.8" rx="44.0" ry="12.0" fill="#2C323D" opacity="0.17"/>
+  <path d="M64.3 91.4 L106.9 115.8 L112.5 63.3 L69.9 39.0 Z" fill="url(#g-glass-grl)" stroke="url(#g-edge-grl)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M67.3 89.2 L104.7 110.6 L109.5 65.5 L72.1 44.1 Z" fill="url(#g-top-grl)" stroke="#E3E8EF" stroke-width="1.4" stroke-linejoin="round"/>
+  <path d="M75.5 56.6 L89.7 64.7" stroke="#F2F6FF" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M74.6 65.6 L102.3 81.5" stroke="#F2F6FF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity=".7" fill="none"/>
+  <path d="M73.8 72.8 L95.5 85.3" stroke="#F2F6FF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity=".7" fill="none"/>
+  <path d="M72.2 87.3 L85.0 94.6 L85.8 86.4 L73.1 79.2 Z" fill="#F2F6FF" opacity=".55"/>
+  <path d="M36.3 110.6 L78.9 135.0 L78.9 131.1 L36.3 106.8 Z" fill="url(#g-glass-grl)" stroke="url(#g-edge-grl)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M106.9 119.0 L78.9 135.0 L78.9 131.1 L106.9 115.1 Z" fill="url(#g-glass-grl)" stroke="url(#g-edge-grl)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M64.3 90.8 L106.9 115.1 L78.9 131.1 L36.3 106.8 Z" fill="url(#g-glass-grl)" stroke="url(#g-edge-grl)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M64.3 95.9 L97.9 115.1" stroke="#77839A" stroke-width="3.4" stroke-dasharray="4.5 2.6" opacity=".8" fill="none"/>
+  <path d="M59.8 98.5 L93.4 117.7" stroke="#77839A" stroke-width="3.4" stroke-dasharray="4.5 2.6" opacity=".8" fill="none"/>
+  <path d="M55.4 101.0 L89.0 120.2" stroke="#77839A" stroke-width="3.4" stroke-dasharray="4.5 2.6" opacity=".8" fill="none"/>
+  <path d="M61.5 109.0 L75.0 116.7 L67.1 121.2 L53.7 113.5 Z" fill="none" stroke="#77839A" stroke-width="2.4" stroke-linejoin="round" opacity=".8"/>
+</svg>

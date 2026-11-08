@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Launch">
+  <defs>
+    <linearGradient id="g-edge-eml" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFA14A"/><stop offset="1" stop-color="#EE4B7E"/></linearGradient>
+    <linearGradient id="g-glass-eml" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFA14A" stop-opacity=".24"/><stop offset="1" stop-color="#EE4B7E" stop-opacity=".24"/></linearGradient>
+    <radialGradient id="g-top-eml" cx="30%" cy="25%" r="85%"><stop offset="0" stop-color="#FFC58A"/><stop offset=".5" stop-color="#E85A6A"/><stop offset="1" stop-color="#7A1F4B"/></radialGradient>
+  </defs>
+  <path d="M24 110 L80 142 L136 110 L136 118 L80 150 L24 118 Z" fill="url(#g-glass-eml)" opacity=".9"/>
+  <path d="M80 78 L136 110 L80 142 L24 110 Z" fill="url(#g-glass-eml)" stroke="url(#g-edge-eml)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 110 L80 142 L136 110" fill="none" stroke="#EE4B7E" stroke-width="1.2" stroke-opacity=".9" transform="translate(0 8)"/>
+  <circle cx="56" cy="112" r="11" fill="url(#g-glass-eml)" stroke="url(#g-edge-eml)" stroke-width="2"/>
+  <circle cx="104" cy="112" r="11" fill="url(#g-glass-eml)" stroke="url(#g-edge-eml)" stroke-width="2"/>
+  <circle cx="66" cy="118" r="12" fill="url(#g-glass-eml)" stroke="url(#g-edge-eml)" stroke-width="2"/>
+  <circle cx="94" cy="118" r="12" fill="url(#g-glass-eml)" stroke="url(#g-edge-eml)" stroke-width="2"/>
+  <circle cx="80" cy="120" r="13" fill="url(#g-glass-eml)" stroke="url(#g-edge-eml)" stroke-width="2"/>
+  <path d="M71 86 C71 98 77 104 80 112 C83 104 89 98 89 86 Z" fill="url(#g-edge-eml)" stroke="#F2F6FF" stroke-width="1.6"/>
+  <path d="M76 86 C76 93 80 98 80 101 C80 98 84 93 84 86 Z" fill="#F2F6FF"/>
+  <path d="M68 56 L54 78 L56 90 L70 82 Z" fill="#7A1F4B" stroke="#FFD6A8" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M92 56 L106 78 L104 90 L90 82 Z" fill="#7A1F4B" stroke="#FFD6A8" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M80 10 C96 22 96 50 92 86 H68 C64 50 64 22 80 10 Z" fill="url(#g-top-eml)" stroke="#FFD6A8" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M73 28 C70 42 70 60 72 76" fill="none" stroke="#F2F6FF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity=".5"/>
+  <circle cx="80" cy="42" r="7" fill="url(#g-glass-eml)" stroke="#F2F6FF" stroke-width="2.4"/>
+  <path d="M80 66 V84" stroke="#7A1F4B" stroke-width="3" stroke-linecap="round"/>
+</svg>

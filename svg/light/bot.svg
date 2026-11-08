@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Bot">
+  <defs>
+    <linearGradient id="g-edge-grl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#AEB8C6"/><stop offset="1" stop-color="#5A6576"/></linearGradient>
+    <linearGradient id="g-glass-grl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#AEB8C6" stop-opacity=".24"/><stop offset="1" stop-color="#5A6576" stop-opacity=".24"/></linearGradient>
+    <radialGradient id="g-top-grl" cx="30%" cy="25%" r="85%"><stop offset="0" stop-color="#C3CCD8"/><stop offset=".5" stop-color="#77839A"/><stop offset="1" stop-color="#2C323D"/></radialGradient>
+  </defs>
+  <path d="M24 110 L80 142 L136 110 L136 118 L80 150 L24 118 Z" fill="url(#g-glass-grl)" opacity=".9"/>
+  <path d="M80 78 L136 110 L80 142 L24 110 Z" fill="url(#g-glass-grl)" stroke="url(#g-edge-grl)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 110 L80 142 L136 110" fill="none" stroke="#5A6576" stroke-width="1.2" stroke-opacity=".9" transform="translate(0 8)"/>
+  <ellipse cx="80.0" cy="110.0" rx="40.0" ry="12.0" fill="#2C323D" opacity="0.17"/>
+  <path d="M69.9 109.4 L81.1 115.8 L81.1 106.8 L69.9 100.4 Z" fill="url(#g-glass-grl)" stroke="url(#g-edge-grl)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M90.1 110.6 L81.1 115.8 L81.1 106.8 L90.1 101.7 Z" fill="url(#g-glass-grl)" stroke="url(#g-edge-grl)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M78.9 95.3 L90.1 101.7 L81.1 106.8 L69.9 100.4 Z" fill="url(#g-glass-grl)" stroke="url(#g-edge-grl)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M80.0 60.1 V38.1" fill="none" stroke="#77839A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M52.0 97.8 L85.6 117.0 L85.6 76.1 L52.0 56.9 Z" fill="url(#g-glass-grl)" stroke="url(#g-edge-grl)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M108.0 104.2 L85.6 117.0 L85.6 76.1 L108.0 63.3 Z" fill="url(#g-glass-grl)" stroke="url(#g-edge-grl)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M74.4 44.1 L108.0 63.3 L85.6 76.1 L52.0 56.9 Z" fill="url(#g-top-grl)" stroke="#E3E8EF" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M108.0 104.2 L85.6 117.0 L85.6 76.1 L108.0 63.3 Z" fill="url(#g-top-grl)" stroke="#E3E8EF" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M55.9 93.7 L81.7 108.4 L81.7 80.2 L55.9 65.5 Z" fill="#2C323D" stroke="#E3E8EF" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M62.6 80.9 L62.6 75.8" stroke="#F2F6FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M75.0 87.9 L75.0 82.8" stroke="#F2F6FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M63.2 90.2 L66.6 94.6 L71.0 97.2 L74.4 96.6" stroke="#F2F6FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <ellipse cx="99.8" cy="90.2" rx="5" ry="10" fill="url(#g-top-grl)" stroke="#E3E8EF" stroke-width="1.5"/>
+  <circle cx="80.0" cy="34.1" r="6.5" fill="url(#g-top-grl)" stroke="#E3E8EF" stroke-width="1.5"/>
+</svg>

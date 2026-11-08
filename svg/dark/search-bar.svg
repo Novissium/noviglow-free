@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Search bar">
+  <defs>
+    <linearGradient id="g-edge-nod" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22B8D8"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="g-glass-nod" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22B8D8" stop-opacity=".35"/><stop offset="1" stop-color="#8B5CF6" stop-opacity=".35"/></linearGradient>
+    <radialGradient id="g-top-nod" cx="30%" cy="25%" r="85%"><stop offset="0" stop-color="#6CC3F5"/><stop offset=".5" stop-color="#5568D8"/><stop offset="1" stop-color="#3B2F7E"/></radialGradient>
+  </defs>
+  <path d="M24 110 L80 142 L136 110 L136 118 L80 150 L24 118 Z" fill="url(#g-glass-nod)" opacity=".8"/>
+  <path d="M80 78 L136 110 L80 142 L24 110 Z" fill="url(#g-glass-nod)" stroke="url(#g-edge-nod)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 110 L80 142 L136 110" fill="none" stroke="#8FE3F7" stroke-width="1.2" stroke-opacity=".5" transform="translate(0 8)"/>
+  <ellipse cx="74.4" cy="113.2" rx="44.0" ry="9.0" fill="#0B1020" opacity="0.40"/>
+  <path d="M63.2 106.8 L85.6 119.6 L85.6 117.0 L63.2 104.2 Z" fill="url(#g-glass-nod)" stroke="url(#g-edge-nod)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M94.6 114.5 L85.6 119.6 L85.6 117.0 L94.6 111.9 Z" fill="url(#g-glass-nod)" stroke="url(#g-edge-nod)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M72.2 99.1 L94.6 111.9 L85.6 117.0 L63.2 104.2 Z" fill="url(#g-glass-nod)" stroke="url(#g-edge-nod)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M78.9 108.1 L78.9 85.0" fill="none" stroke="#3B2F7E" stroke-width="7.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M78.9 108.1 L78.9 85.0" fill="none" stroke="url(#g-edge-nod)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="matrix(.56 .32 0 .64 48.6 95.9)"><path d="M8.0 -84.0 H92.0 Q114.0 -84.0 114.0 -62.0 V-62.0 Q114.0 -40.0 92.0 -40.0 H8.0 Q-14.0 -40.0 -14.0 -62.0 V-62.0 Q-14.0 -84.0 8.0 -84.0 Z" fill="url(#g-glass-nod)" fill-rule="evenodd" stroke="url(#g-edge-nod)" stroke-width="2.4" vector-effect="non-scaling-stroke" stroke-linejoin="round"/></g>
+  <path d="M50.9 57.5 L68.8 67.8" stroke="#F2F6FF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M72.2 74.8 L72.2 64.6" stroke="#F2F6FF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="100.4" cy="85.8" r="16" fill="#3B2F7E"/>
+  <circle cx="99.5" cy="85.3" r="16" fill="#3B2F7E"/>
+  <circle cx="98.6" cy="84.8" r="16" fill="#3B2F7E"/>
+  <circle cx="97.7" cy="84.3" r="16" fill="#5568D8"/>
+  <circle cx="96.8" cy="83.8" r="16" fill="url(#g-top-nod)" stroke="#8FE3F7" stroke-width="2"/>
+  <circle cx="96.8" cy="83.8" r="11.0" fill="none" stroke="#F2F6FF" stroke-width="1.6" opacity=".55"/>
+  <circle cx="94.8" cy="81.8" r="6" fill="none" stroke="#F2F6FF" stroke-width="3"/>
+  <path d="M99.3 86.3 L103.8 90.8" fill="none" stroke="#F2F6FF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
